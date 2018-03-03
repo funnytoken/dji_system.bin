@@ -68,6 +68,7 @@ MD5 (V01.04.0300_Goggles_dji_system.bin) = 68a877dbe77c4c719eaefbee8da75a32
 MD5 (V01.04.0300_Mavic_dji_system.bin) = c4c58a4a9eb4d417225cc2621ea0373a
 MD5 (V01.04.0300_RC_Mavic_dji_system.bin) = 31b6f4b398c742da2636ee5d0ba38550
 MD5 (V01.04.0602_P4P_dji_system.bin) = 46d325fafd60086add4c4c77c15132f7
+MD5 (V01.05.0300_P4P_dji_system.bin) = 1517cf9c313f69ed5dea83c89e8418c0
 MD5 (V02.00.0106_P4_dji_system.bin) = a49944bb254354ec064bee13c491fa1e
 MD5 (V02.00.0600_P4_dji_system.bin) = c3149a3baac7a06e711b95de0952de9a
 MD5 (V02.00.0700_P4_dji_system.bin) = 3961c20973bed21b1ec52ae3f91341e7
