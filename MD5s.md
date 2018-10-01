@@ -33,6 +33,7 @@ MD5 (V01.00.0500_Mavic_Air_dji_system.bin) = 8b636cf846c7b92d234d6527f8b3ef3c
 MD5 (V01.00.0500_Spark_dji_system.bin) = 7eb929d2030fe574a65b92f7282548c6
 MD5 (V01.00.0600_GogglesRE_dji_system.bin) = e657b692fef610939600c7a59eda61ac
 MD5 (V01.00.0600_Spark_dji_system.bin) = 5c4ac9c6ede03371c5963af07e728dd1
+MD5 (V01.00.0700_GogglesRE_dji_system.bin) = 1020d484e737c9b0719c9f9a48a3184d
 MD5 (V01.00.0700_Spark_dji_system.bin) = 917a177f0ba8cf93a8546263c1df83ec
 MD5 (V01.00.0701_Spark_dji_system.bin) = 91ed107414094c259148afd5ad8ea702
 MD5 (V01.00.0800_Spark_dji_system.bin) = 86787f64f70465b7cce0b4896c090af6
